@@ -1,7 +1,7 @@
 function adicionarIngrediente()
 {
 
-	var ing = document.getElementById("ingredientes").value; 
+	var ing = document.getElementById("ingrediente").value; 
 
 	
 	var listahtml = document.getElementById("lista").innerHTML;
